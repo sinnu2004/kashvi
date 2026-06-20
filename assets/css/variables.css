@@ -1,0 +1,43 @@
+/* ===================================
+   L'AURA BEAUTY DESIGN TOKENS
+=================================== */
+
+:root {
+
+    /* Brand Colors */
+    --burgundy: #5D1229;
+    --burgundy-dark: #450D1F;
+    --gold: #D4AF37;
+    --gold-light: #E7C766;
+
+    /* Background Colors */
+    --cream: #FAF9F6;
+    --soft-rose: #FDF4F5;
+    --white: #FFFFFF;
+
+    /* Text Colors */
+    --dark: #1A1A1A;
+    --text-light: #666666;
+    --text-muted: #999999;
+
+    /* Borders */
+    --border-light: #EFE7E8;
+
+    /* Shadows */
+    --shadow-sm: 0 5px 15px rgba(0,0,0,.05);
+    --shadow-md: 0 10px 30px rgba(0,0,0,.08);
+    --shadow-lg: 0 20px 50px rgba(0,0,0,.12);
+
+    /* Radius */
+    --radius-sm: 8px;
+    --radius-md: 14px;
+    --radius-lg: 20px;
+    --radius-xl: 30px;
+
+    /* Container Width */
+    --container: 1300px;
+
+    /* Transitions */
+    --transition: all .35s ease;
+
+}
